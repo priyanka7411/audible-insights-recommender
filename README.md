@@ -83,7 +83,7 @@ streamlit run app.py
 ```
 
 ## 📸 App Preview
-_Add screenshots here once the app UI is finalized._
+
 
 ## 📄 License
 This project is licensed under the MIT License.
