@@ -83,7 +83,8 @@ streamlit run app.py
 ```
 
 ## 📸 App Preview
-[Screenshot](screencapture-localhost-8501-2025-04-20-12_08_54.png)
+
+![App Screenshot](screencapture-localhost-8501-2025-04-20-12_08_54.png)
 
 ## 📄 License
 This project is licensed under the MIT License.
