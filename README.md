@@ -85,6 +85,7 @@ streamlit run app.py
 ## 📸 App Preview
 
 ![App Screenshot](screencapture-localhost-8501-2025-04-20-12_08_54.png)
+![Project PPT](Audible_Insights_Presentation_With_Images.key)
 
 ## 📄 License
 This project is licensed under the MIT License.
