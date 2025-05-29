@@ -69,7 +69,7 @@ An intelligent book recommendation system that leverages advanced machine learni
 ![Homepage](images/screencapture-localhost-8501-2025-05-29-11_35_23.png)
 
 ### Book Search - Find Similar Recommendations
-![Book Search](https://via.placeholder.com/800x400/764ba2/ffffff?text=Intelligent+Book+Search)
+![Book Search](images/screencapture-localhost-8501-2025-05-29-11_35_52.png)
 
 ### Personal Recommendations - Customized for You
 ![Personal Recommendations](https://via.placeholder.com/800x400/fcb69f/ffffff?text=Personalized+Recommendations)
