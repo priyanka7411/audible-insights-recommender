@@ -66,7 +66,7 @@ An intelligent book recommendation system that leverages advanced machine learni
 ## 🖼️ Demo Screenshots
 
 ### Homepage - Discover Featured Books
-![Homepage](https://via.placeholder.com/800x400/667eea/ffffff?text=Audible+Insights+Homepage)
+![Homepage](images/screencapture-localhost-8501-2025-05-29-11_35_23.png)
 
 ### Book Search - Find Similar Recommendations
 ![Book Search](https://via.placeholder.com/800x400/764ba2/ffffff?text=Intelligent+Book+Search)
