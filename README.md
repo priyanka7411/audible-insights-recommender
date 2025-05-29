@@ -72,7 +72,7 @@ An intelligent book recommendation system that leverages advanced machine learni
 ![Book Search](images/screencapture-localhost-8501-2025-05-29-11_35_52.png)
 
 ### Personal Recommendations - Customized for You
-![Personal Recommendations](https://via.placeholder.com/800x400/fcb69f/ffffff?text=Personalized+Recommendations)
+![Personal Recommendations](images/screencapture-localhost-8501-2025-05-29-11_36_46.png)
 
 ### Data Insights - Analytics Dashboard
 ![Data Insights](https://via.placeholder.com/800x400/a8edea/ffffff?text=Interactive+Analytics)
