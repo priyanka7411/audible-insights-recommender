@@ -1,0 +1,93 @@
+{
+  "methodology": {
+    "test_books_count": 61,
+    "evaluation_metrics": [
+      "Success Rate",
+      "Diversity",
+      "Novelty",
+      "Serendipity",
+      "Average Rating"
+    ],
+    "evaluation_date": "2025-05-27 21:04:59"
+  },
+  "results": {
+    "content_based": {
+      "avg_diversity": 0.5866666666666667,
+      "avg_novelty": 0.635,
+      "avg_serendipity": 0.025,
+      "avg_rating": 4.4830000000000005,
+      "success_rate": 1.0
+    },
+    "cluster_based": {
+      "avg_diversity": 0.7771428571428572,
+      "avg_novelty": 0.05,
+      "avg_serendipity": 0.0,
+      "avg_rating": 4.804642857142856,
+      "success_rate": 1.0
+    },
+    "hybrid": {
+      "avg_diversity": 0.7700000000000002,
+      "avg_novelty": 0.08,
+      "avg_serendipity": 0.025,
+      "avg_rating": 4.7929999999999975,
+      "success_rate": 1.0
+    }
+  },
+  "comparison": [
+    {
+      "Method": "Content-Based",
+      "Success_Rate": 1.0,
+      "Diversity": 0.5866666666666667,
+      "Novelty": 0.635,
+      "Serendipity": 0.025,
+      "Avg_Rating": 4.4830000000000005
+    },
+    {
+      "Method": "Cluster-Based",
+      "Success_Rate": 1.0,
+      "Diversity": 0.7771428571428572,
+      "Novelty": 0.05,
+      "Serendipity": 0.0,
+      "Avg_Rating": 4.804642857142856
+    },
+    {
+      "Method": "Hybrid",
+      "Success_Rate": 1.0,
+      "Diversity": 0.7700000000000002,
+      "Novelty": 0.08,
+      "Serendipity": 0.025,
+      "Avg_Rating": 4.7929999999999975
+    }
+  ],
+  "best_methods": {
+    "Success_Rate": "Content-Based",
+    "Diversity": "Cluster-Based",
+    "Novelty": "Content-Based",
+    "Serendipity": "Content-Based",
+    "Avg_Rating": "Cluster-Based"
+  },
+  "overall_ranking": [
+    [
+      "Hybrid",
+      1.4283499999999996
+    ],
+    [
+      "Cluster-Based",
+      1.4238571428571425
+    ],
+    [
+      "Content-Based",
+      1.4129333333333336
+    ]
+  ],
+  "recommendations": {
+    "primary_method": "Hybrid",
+    "deployment_strategy": "Hybrid for main recommendations, Content-Based for similarity, Cluster-Based for discovery",
+    "key_insights": [
+      "Hybrid method performs best overall",
+      "Success rates range from 100.0% to 100.0%",
+      "Hybrid approach balances all evaluation metrics effectively",
+      "All methods maintain high recommendation quality (4.0+ average rating)"
+    ]
+  }
+}
